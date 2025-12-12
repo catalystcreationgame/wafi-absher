@@ -1,0 +1,26 @@
+{
+  "video_id": "v015",
+  "service": "أبشر أفراد",
+  "service_name": "نقل ملكية سلاح",
+  "workflow_title": "نقل ملكية سلاح عبر أبشر",
+  "description": "خطوات نقل ملكية سلاح من شخص الى اخر",
+  "source_url": "https://youtu.be/0ksRamt_LYE",
+  "total_frames": 58,
+  "ui_patterns": 20,
+  "ui_patterns_data": [
+    {"step": 1, "text": "الشاشة الرئيسية - خدماتي", "frame": "data/frames/v009/frame_0000.jpg", "type": "UI_PATTERN"},
+    {"step": 2, "text": "قائمةالأمن العام", "frame": "data/frames/v009/frame_0003.jpg", "type": "UI_PATTERN"},
+    {"step": 3, "text": "اختيار إدارة الأسلحة", "frame": "data/frames/v009/frame_0006.jpg", "type": "UI_PATTERN"},
+    {"step": 4, "text": "إختيار أسلحة هوائية ", "frame": "data/frames/v009/frame_0009.jpg", "type": "UI_PATTERN"},
+    {"step": 5, "text": "إختيار السلاح", "frame": "data/frames/v009/frame_0012.jpg", "type": "UI_PATTERN"},
+    {"step": 6, "text": "إختيار خدمات السلاح", "frame": "data/frames/v009/frame_0015.jpg", "type": "UI_PATTERN"},
+    {"step": 7, "text": "إختيار نقل ملكية سلاح هوائي ", "frame": "data/frames/v009/frame_0009.jpg", "type": "UI_PATTERN"},
+    {"step": 8, "text": "إختيار البدء في الخدمة", "frame": "data/frames/v009/frame_0012.jpg", "type": "UI_PATTERN"},
+    {"step": 9, "text": "إدخال رقم هوية المالك الجديد", "frame": "data/frames/v009/frame_0015.jpg", "type": "UI_PATTERN"},
+    {"step": 10, "text": "إختيار نوع التقويم (هجري، ميلادي)", "frame": "data/frames/v009/frame_0015.jpg", "type": "UI_PATTERN"},
+    {"step": 11, "text": "إختيار تاريخ ميلاد المالك الجديد", "frame": "data/frames/v009/frame_0015.jpg", "type": "UI_PATTERN"},
+    {"step": 12, "text": "إختيارالتالي", "frame": "data/frames/v009/frame_0015.jpg", "type": "UI_PATTERN"},
+    {"step": 13, "text": "إدخال رمز التحقق من المالك الجديد", "frame": "data/frames/v009/frame_0015.jpg", "type": "UI_PATTERN"},
+    {"step": 14, "text": "دفع الرسوم", "frame": "data/frames/v009/frame_0015.jpg", "type": "UI_PATTERN"},
+  ]
+}

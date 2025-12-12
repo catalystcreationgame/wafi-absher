@@ -1,0 +1,20 @@
+{
+  "video_id": "v008",
+  "service": "أبشر أفراد",
+  "service_name": "خدمة تواصل",
+  "workflow_title": "تحديث الحالة الاجتماعية",
+  "description": "كيفية تحديث الحالة الاجتماعية",
+  "source_url": "https://youtu.be/Omo253JBPoY",
+  "total_frames": 26,
+  "ui_patterns": 8,
+  "ui_patterns_data": [
+    {"step": 1, "text": "الشاشة الرئيسية - خدماتي", "frame": "data/frames/v008/frame_0003.jpg", "type": "UI_PATTERN"},
+    {"step": 2, "text": "اختيار الأحوال المدنية", "frame": "data/frames/v008/frame_0006.jpg", "type": "UI_PATTERN"},
+    {"step": 3, "text": "إختيار تواصل", "frame": "data/frames/v008/frame_0009.jpg", "type": "UI_PATTERN"},
+    {"step": 4, "text": "اختيار طلب جديد", "frame": "data/frames/v008/frame_0012.jpg", "type": "UI_PATTERN"},
+    {"step": 5, "text": "(وكالة وزارة الداخلية للأحوال المدنية) إختيار المنطقة", "frame": "data/frames/v008/frame_0015.jpg", "type": "UI_PATTERN"},
+    {"step": 6, "text": "(خدمات السجل المدني) إختيار الخدمة", "frame": "data/frames/v008/frame_0018.jpg", "type": "UI_PATTERN"},
+    {"step": 7, "text": "اختيارالخدمة الفرعية (تصحيح الحالة الإجتماعية)", "frame": "data/frames/v008/frame_0021.jpg", "type": "UI_PATTERN"},
+    {"step": 8, "text": "إضافة المرفقات", "frame": "data/frames/v008/frame_0024.jpg", "type": "UI_PATTERN"}
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "project": "Absher AI Prototype",
+  "extraction_date": "2025-11-24T19:47:47.164388",
+  "compliance_status": "COMPLIANT",
+  "legal_basis": [
+    "Fair use - educational purpose",
+    "Public video sources only",
+    "Transformative UI analysis",
+    "Zero PII extraction",
+    "Non-commercial use"
+  ],
+  "data_sources": {
+    "total_videos": 69,
+    "successful": 16,
+    "failed": 53,
+    "type": "Public YouTube videos",
+    "access": "No login required"
+  },
+  "extraction_scope": "UI patterns and workflow steps",
+  "exclusions": [
+    "No copyrighted video content",
+    "No audio/music",
+    "No personal data",
+    "No credentials"
+  ]
+}

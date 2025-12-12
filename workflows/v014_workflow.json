@@ -1,0 +1,18 @@
+{
+  "video_id": "v009",
+  "service": "أبشر أفراد",
+  "service_name": "خدمة كفو",
+  "workflow_title": "تفعيل خدمة كفو عبر أبشر",
+  "description": "خطوات تفعيل خدمة كفو لتوصيل الطلبات او توصيل الافراد او تنبيهات فرص عمل لتشاطات اخرى",
+  "source_url": "https://youtu.be/_umZAuZa0wY",
+  "total_frames": 58,
+  "ui_patterns": 20,
+  "ui_patterns_data": [
+    {"step": 1, "text": "الشاشة الرئيسية - خدماتي", "frame": "data/frames/v009/frame_0000.jpg", "type": "UI_PATTERN"},
+    {"step": 2, "text": "قائمة الخدمات العامة", "frame": "data/frames/v009/frame_0003.jpg", "type": "UI_PATTERN"},
+    {"step": 3, "text": "اختيار خدمة كفو", "frame": "data/frames/v009/frame_0006.jpg", "type": "UI_PATTERN"},
+    {"step": 4, "text": "إختيار الأنشطة (توصيل طلبات، توصيل افراد او كلامهما) ", "frame": "data/frames/v009/frame_0009.jpg", "type": "UI_PATTERN"},
+    {"step": 5, "text": "تحديد الرغبة في الاضافة الى تنبيهات فرص العمل للنشاطات الأخرى", "frame": "data/frames/v009/frame_0012.jpg", "type": "UI_PATTERN"},
+    {"step": 6, "text": "اختيارالتالي", "frame": "data/frames/v009/frame_0015.jpg", "type": "UI_PATTERN"},
+  ]
+}

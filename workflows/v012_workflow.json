@@ -1,0 +1,20 @@
+{
+  "video_id": "v009",
+  "service": "أبشر أفراد",
+  "service_name": "خدمة الغاء تفويض قيادة",
+  "workflow_title": "الغاء تفويض قيادة مركبة عبر أبشر",
+  "description": "خطوات إلغاء تفويض قيادة مركبة",
+  "source_url": "https://youtu.be/_umZAuZa0wY",
+  "total_frames": 58,
+  "ui_patterns": 20,
+  "ui_patterns_data": [
+    {"step": 1, "text": "الشاشة الرئيسية - خدماتي", "frame": "data/frames/v009/frame_0000.jpg", "type": "UI_PATTERN"},
+    {"step": 2, "text": "قائمة خدمات المركبات", "frame": "data/frames/v009/frame_0003.jpg", "type": "UI_PATTERN"},
+    {"step": 3, "text": "اختيار المركبة", "frame": "data/frames/v009/frame_0006.jpg", "type": "UI_PATTERN"},
+    {"step": 4, "text": "إختيار تفاصيل التفويض ", "frame": "data/frames/v009/frame_0009.jpg", "type": "UI_PATTERN"},
+    {"step": 5, "text": "عرض معلومات التفويض", "frame": "data/frames/v009/frame_0012.jpg", "type": "UI_PATTERN"},
+    {"step": 6, "text": "اختيار إلغاء التفويض", "frame": "data/frames/v009/frame_0015.jpg", "type": "UI_PATTERN"},
+    {"step": 7, "text": "تأكيد إلغاء التفويض", "frame": "data/frames/v009/frame_0018.jpg", "type": "UI_PATTERN"},
+    {"step": 8, "text": "تأكيد الطلب بإدخال رمز التحقق", "frame": "data/frames/v009/frame_0018.jpg", "type": "UI_PATTERN"},
+  ]
+}

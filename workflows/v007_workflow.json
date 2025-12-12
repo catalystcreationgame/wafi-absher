@@ -1,0 +1,22 @@
+{
+  "video_id": "v007",
+  "service": "أبشر أفراد",
+  "service_name": "خدمة إصدار شهادة خلو سوابق",
+  "workflow_title": "اصدار شهادة خلو سوابق عبر أبشر",
+  "description": "كيفية اصدار شهادة خلو سوابق عبر موقع ابشر",
+  "source_url": "https://youtu.be/NKaB01BY0Jo",
+  "total_frames": 20,
+  "ui_patterns": 6,
+  "ui_patterns_data": [
+    {"step": 1, "text": "الشاشة الرئيسية", "frame": "data/frames/v007/frame_0000.jpg", "type": "UI_PATTERN"},
+    {"step": 2, "text": "خدمات اخرى", "frame": "data/frames/v007/frame_0003.jpg", "type": "UI_PATTERN"},
+    {"step": 3, "text": "إصدار شهادة خلو سوابق", "frame": "data/frames/v007/frame_0006.jpg", "type": "UI_PATTERN"},
+    {"step": 4, "text": "طلب شهادة خلو سوابق", "frame": "data/frames/v007/frame_0009.jpg", "type": "UI_PATTERN"},
+    {"step": 5, "text": "اختيار نوع الجهة (جهة داخلية، جهة خارجية)", "frame": "data/frames/v007/frame_0012.jpg", "type": "UI_PATTERN"},
+    {"step": 6, "text": "اختيار الغرض من الطلب", "frame": "data/frames/v007/frame_0018.jpg", "type": "UI_PATTERN"}
+    {"step": 7, "text": "اختيار التالي", "frame": "data/frames/v007/frame_0018.jpg", "type": "UI_PATTERN"}
+    {"step": 8, "text": "التأكيد على بيانات التقرير", "frame": "data/frames/v007/frame_0018.jpg", "type": "UI_PATTERN"}
+    {"step": 9, "text": "دفع رسوم التقرير ", "frame": "data/frames/v007/frame_0018.jpg", "type": "UI_PATTERN"}
+    {"step": 10, "text": "استخراج التقرير بصيغة (pdf)", "frame": "data/frames/v007/frame_0018.jpg", "type": "UI_PATTERN"}
+  ]
+}

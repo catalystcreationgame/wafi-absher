@@ -1,0 +1,26 @@
+{
+  "video_id": "v009",
+  "service": "أبشر أفراد",
+  "service_name": "خدمة تجديد رخصة القيادة",
+  "workflow_title": "تجديد رخصة القيادة عبر أبشر",
+  "description": "خطوات تجديد رخصة القيادة الخاصة والدراجات النارية",
+  "source_url": "https://youtu.be/_umZAuZa0wY",
+  "total_frames": 58,
+  "ui_patterns": 20,
+  "ui_patterns_data": [
+    {"step": 1, "text": "الشاشة الرئيسية - خدماتي", "frame": "data/frames/v009/frame_0000.jpg", "type": "UI_PATTERN"},
+    {"step": 2, "text": "قائمة خدمات المرور", "frame": "data/frames/v009/frame_0003.jpg", "type": "UI_PATTERN"},
+    {"step": 3, "text": "اختيار خدمة تجديد الرخصة", "frame": "data/frames/v009/frame_0006.jpg", "type": "UI_PATTERN"},
+    {"step": 4, "text": "اختيار عدد سنوات التجديد (سنتين، ٥ سنوات، ١٠ سنوات)", "frame": "data/frames/v009/frame_0009.jpg", "type": "UI_PATTERN"},
+    {"step": 5, "text": "اختيار تأكيد التجديد", "frame": "data/frames/v009/frame_0012.jpg", "type": "UI_PATTERN"},
+    {"step": 6, "text": "اختيار المنطقة (العنوان الوطني)", "frame": "data/frames/v009/frame_0015.jpg", "type": "UI_PATTERN"},
+    {"step": 7, "text": "اختيار المدينة (العنوان الوطني)", "frame": "data/frames/v009/frame_0018.jpg", "type": "UI_PATTERN"},
+    {"step": 8, "text": "اختيار الحي (العنوان الوطني)", "frame": "data/frames/v009/frame_0021.jpg", "type": "UI_PATTERN"},
+    {"step": 9, "text": "الضغط على التالي", "frame": "data/frames/v009/frame_0024.jpg", "type": "UI_PATTERN"},
+    {"step": 10, "text": "اختيار شركة التوصيل و حساب الرسوم المستحقة", "frame": "data/frames/v009/frame_0027.jpg", "type": "UI_PATTERN"},
+    {"step": 11, "text": "الدفع", "frame": "data/frames/v009/frame_0030.jpg", "type": "UI_PATTERN"},
+    {"step": 12, "text": "التأكيد على رقم الجوال", "frame": "data/frames/v009/frame_0033.jpg", "type": "UI_PATTERN"},
+    {"step": 13, "text": "المراجعة النهائية", "frame": "data/frames/v009/frame_0036.jpg", "type": "UI_PATTERN"},
+    {"step": 14, "text": "اتمام الطلب", "frame": "data/frames/v009/frame_0039.jpg", "type": "UI_PATTERN"},
+  ]
+}

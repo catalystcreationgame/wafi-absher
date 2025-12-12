@@ -1,0 +1,23 @@
+{
+  "video_id": "v011",
+  "service": "أبشر أفراد",
+  "service_name": "خدمة مبايعة المركبات",
+  "workflow_title": "تسليم المركبة عن طريق ابشر",
+  "description": "خطوات تسليم مركبة مباعة",
+  "source_url": "https://www.youtube.com/watch?v=dAgKC4jRXF4",
+  "total_frames": 58,
+  "ui_patterns": 20,
+  "ui_patterns_data": [
+    {"step": 1, "text": "الشاشة الرئيسية - المركبات", "frame": "data/frames/v009/frame_0000.jpg", "type": "UI_PATTERN"},
+    {"step": 2, "text": "مبايعة المركبات", "frame": "data/frames/v009/frame_0003.jpg", "type": "UI_PATTERN"},
+    {"step": 3, "text": "إختيار المركبة ", "frame": "data/frames/v009/frame_0006.jpg", "type": "UI_PATTERN"},
+    {"step": 4, "text": "الضغط على متابعة", "frame": "data/frames/v009/frame_0039.jpg", "type": "UI_PATTERN"},
+    {"step": 5, "text": "مراجعة المعلومات", "frame": "data/frames/v009/frame_0033.jpg", "type": "UI_PATTERN"},
+    {"step": 6, "text": "الاقرار بالعقد", "frame": "data/frames/v009/frame_0036.jpg", "type": "UI_PATTERN"},
+    {"step": 7, "text": "استعراض العقد", "frame": "data/frames/v009/frame_0036.jpg", "type": "UI_PATTERN"},
+    {"step": 8, "text": "رفع الطلب", "frame": "data/frames/v009/frame_0039.jpg", "type": "UI_PATTERN"},
+    {"step": 9, "text": "مراجعة المعلومات", "frame": "data/frames/v009/frame_0033.jpg", "type": "UI_PATTERN"},
+    {"step": 10, "text": "الاقرار بالشروط والاحكام", "frame": "data/frames/v009/frame_0036.jpg", "type": "UI_PATTERN"},
+    {"step": 11, "text": "اختيار تسليم المركبة", "frame": "data/frames/v009/frame_0039.jpg", "type": "UI_PATTERN"},
+  ]
+}

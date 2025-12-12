@@ -1,0 +1,24 @@
+{
+  "video_id": "v002",
+  "service": "أبشر أفراد",
+  "service_name": "خدمة تتبع الطلبات",
+  "workflow_title": "خدمة تغيير الاسم الأول ",
+  "description": "كيفية تغيير الاسم الأول في موقع أبشر",
+  "source_url": "https://youtu.be/MhybzfKy8w0",
+  "total_frames": 25,
+  "ui_patterns": 8,
+  "ui_patterns_data": [
+    {"step": 1, "text": "الشاشة الرئيسية للموقع", "frame": "data/frames/v002/frame_0000.jpg", "type": "UI_PATTERN"},
+    {"step": 2, "text": "قائمة خدماتي", "frame": "data/frames/v002/frame_0003.jpg", "type": "UI_PATTERN"},
+    {"step": 3, "text": "قائمة الاستعلامات - الأحوال المدنية", "frame": "data/frames/v002/frame_0006.jpg", "type": "UI_PATTERN"},
+    {"step": 4, "text": "قائمة الخدمات", "frame": "data/frames/v002/frame_0009.jpg", "type": "UI_PATTERN"},
+    {"step": 5, "text": "خدمات تعديل خانات الاسم", "frame": "data/frames/v002/frame_0012.jpg", "type": "UI_PATTERN"},
+    {"step": 6, "text": "خدمة تغيير الاسم الأول", "frame": "data/frames/v002/frame_0015.jpg", "type": "UI_PATTERN"},
+    {"step": 7, "text": "خيار بدء الخدمة", "frame": "data/frames/v002/frame_0021.jpg", "type": "UI_PATTERN"},
+    {"step": 8, "text": "قراءة رحلة الخدمة،المدة المتوقعة لتنفيذ الخدمة،معلومات عن رسوم الخدمة (مجانية)،شروط الخدمة ", "frame": "data/frames/v002/frame_0024.jpg", "type": "UI_PATTERN"}
+    {"step": 9, "text": "خيار بدء الخدمة ", "frame": "data/frames/v002/frame_0024.jpg", "type": "UI_PATTERN"}
+    {"step": 10, "text": "ادخال الاسم الجديد ", "frame": "data/frames/v002/frame_0024.jpg", "type": "UI_PATTERN"}
+    {"step": 11, "text": "المراجعة والتحقق", "frame": "data/frames/v002/frame_0024.jpg", "type": "UI_PATTERN"}
+    {"step": 12, "text": "ادخال رمز التأكيد ", "frame": "data/frames/v002/frame_0024.jpg", "type": "UI_PATTERN"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "video_id": "v005",
+  "service": "أبشر أفراد",
+  "service_name": "خدمة التواصل عبر اللوحة",
+  "workflow_title": "اشعار بوقوف خاطئ",
+  "description": "كيفيةعمل بلاغ في حالة هناك مركبة تمنعك من الوصول الى مركبتك ",
+  "source_url": "https://youtu.be/stnRq9gCqjk",
+  "total_frames": 36,
+  "ui_patterns": 12,
+  "ui_patterns_data": [
+    {"step": 1, "text": "الشاشة الرئيسية - خدماتي", "frame": "data/frames/v005/frame_0000.jpg", "type": "UI_PATTERN"},
+    {"step": 2, "text": "التواصل عبر اللوحة", "frame": "data/frames/v005/frame_0003.jpg", "type": "UI_PATTERN"},
+    {"step": 3, "text": "عرض خياراشعار بوقوف خاطئ", "frame": "data/frames/v005/frame_0006.jpg", "type": "UI_PATTERN"},
+    {"step": 4, "text": "اختيار نوع التسجيل (خصوصي أو نقل خاص)", "frame": "data/frames/v005/frame_0009.jpg", "type": "UI_PATTERN"},
+    {"step": 5, "text": "ادخال ارقام اللوحة", "frame": "data/frames/v005/frame_0012.jpg", "type": "UI_PATTERN"},
+    {"step": 6, "text": "اختار الحرف الأول", "frame": "data/frames/v005/frame_0015.jpg", "type": "UI_PATTERN"},
+    {"step": 7, "text": "اختار الحرف الثاني", "frame": "data/frames/v005/frame_0018.jpg", "type": "UI_PATTERN"},
+    {"step": 8, "text": "اختار الحرف الثالث", "frame": "data/frames/v005/frame_0021.jpg", "type": "UI_PATTERN"},
+    {"step": 9, "text": "معاينة اللوحة", "frame": "data/frames/v005/frame_0024.jpg", "type": "UI_PATTERN"},
+    {"step": 10, "text": "اختيار متابعة", "frame": "data/frames/v005/frame_0027.jpg", "type": "UI_PATTERN"},
+    {"step": 11, "text": "ابلاغ مالك المركبة لتغيير موقف مركبته ", "frame": "data/frames/v005/frame_0030.jpg", "type": "UI_PATTERN"},
+  ]
+}
