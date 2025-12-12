@@ -172,7 +172,7 @@ def save_conversation(user_id, service_type, messages):
 @app.route("/", methods=["GET"])
 def home():
     return jsonify({
-        "message": "🇸🇦 وافي أبشر - Smart Government Services Chatbot",
+        "message": "🇸🇦 وافي أبشر - مساعدك الذكي للخدمات الحكومية",
         "version": "1.0",
         "services": len(SERVICES),
         "status": "running"
